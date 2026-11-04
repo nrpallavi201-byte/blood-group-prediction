@@ -44,7 +44,6 @@ MODEL_PATH = os.path.join(
 )
 
 HISTORY_DIR = "/tmp/prediction_history"
-)
 
 HISTORY_FILE = os.path.join(
     HISTORY_DIR, "prediction_history.csv"
