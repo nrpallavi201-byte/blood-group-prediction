@@ -43,8 +43,7 @@ MODEL_PATH = os.path.join(
     PROJECT_DIR, "final_cnn_model.keras"
 )
 
-HISTORY_DIR = os.path.join(
-    PROJECT_DIR, "prediction_history"
+HISTORY_DIR = "/tmp/prediction_history"
 )
 
 HISTORY_FILE = os.path.join(
